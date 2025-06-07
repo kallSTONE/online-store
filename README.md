@@ -1,2 +1,4 @@
 # online-store
-fads
+## Discover products with great price
+
+HTML CSS Jquery PHP Mysql
